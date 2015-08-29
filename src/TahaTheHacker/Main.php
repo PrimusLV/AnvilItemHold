@@ -1,4 +1,5 @@
 <?php
+namespace TahaTheHacker\AnvilItemHold;
 
 use Pocketmine/plugin/PluginBase;
 use Pocketmine/plugin/PluginLoader;
